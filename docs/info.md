@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project uses an 8-switch component to send an A and B input signal through an AND Gate an into the output buffer that controls a single LED. If A AND B are on, then the LED is on.
 
 ## How to test
 
-Explain how to use your project
+Flip Switches 1 and 2 to the on position to turn on the LED
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Single LED.
